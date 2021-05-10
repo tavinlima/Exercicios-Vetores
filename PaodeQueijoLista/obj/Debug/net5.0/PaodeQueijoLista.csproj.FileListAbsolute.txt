@@ -1,0 +1,16 @@
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\bin\Debug\net5.0\PaodeQueijoLista.exe
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\bin\Debug\net5.0\PaodeQueijoLista.deps.json
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\bin\Debug\net5.0\PaodeQueijoLista.runtimeconfig.json
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\bin\Debug\net5.0\PaodeQueijoLista.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\bin\Debug\net5.0\PaodeQueijoLista.dll
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\bin\Debug\net5.0\ref\PaodeQueijoLista.dll
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\bin\Debug\net5.0\PaodeQueijoLista.pdb
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.dll
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\ref\PaodeQueijoLista.dll
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.pdb
+C:\Users\Silvana\Desktop\AtividadeArray&Foreach\PaodeQueijoLista\obj\Debug\net5.0\PaodeQueijoLista.genruntimeconfig.cache
